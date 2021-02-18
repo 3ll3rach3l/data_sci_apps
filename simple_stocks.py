@@ -8,7 +8,7 @@ st.write("""
 Shown are the stock **closing price** and ***volume*** of Google!
 
 """)
-
+#can use any stock symbol
 tickerSymbol = 'GOOGL '
 
 #get data on this ticker
